@@ -57,7 +57,7 @@ A data visualization project aimed at identifying the most environmentally susta
 6. What Region would you recommend Intel build their next data center?
 
 
-### Tools I Used:
+# Tools I Used
 To successfully execute this project, I leveraged a combination of powerful tools that are integral to the field of data analytics. 
 
 - **Tableau** was my primary tool for data visualizations construction, creating calculated fields, joining tables and minor data cleaning.
@@ -189,11 +189,9 @@ For my final visualization (Energy Source By Region) I chose to create a line ch
 
 ## Final Recommendation
 
-*Q*: Given what you have created with your visualizations, what region would you recommend the next Intel data center be built?
+To better make the appropriate data-driven recommendations as percise as possible, I will be keeping in the forefront of my decision-making the overall objectives of Intel's substainability team. That goal being to build a new data center within a region that has the highest net energy production, at the lowest cost and with the most amount of diverse renewable energy resources. As the Net Production chart shows, Intel has at the most, five seperate regions that are able to achieve some level of positive energy production. Meaining that the amount of energy demanded is not offsetting the amount of energy being produced. We can see that the mid-atlantic region is number one on this list which would make one think the MIDA would be the number one candidate for the spot. However, when looking at the Renewable Energy bar chart we can clearly see that the mid-atlantic region ranks among the *lowest* regarding the overall percentage of renwable energy produciton.
 
-*A*: To better make the appropriate data-driven recommendations as percise as possible, I will be keeping in the forefront of my decision-making the overall objectives of Intel's substainability team. That goal being to build a new data center within a region that has the highest net energy production, at the lowest cost and with the most amount of diverse renewable energy resources. As the Net Production chart shows, Intel has at the most, five seperate regions that are able to achieve some level of positive energy production. Meaining that the amount of energy demanded is not offsetting the amount of energy being produced. We can see that the mid-atlantic region is number one on this list which would make one think the MIDA would be the number one candidate for the spot. However, when looking at the Renewable Energy bar chart we can clearly see that the mid-atlantic region ranks among the *lowest* regarding the overall percentage of renwable energy produciton.
-
-Eliminating the mid-atlantic from the running the only other region that has proven to meet all of the desired metrics of sustainability is that of the northwest. Eventhough the northwest ranks slightly below the mid-atlantic in terms of overall net production, they far exceed most other regions in terms of renewable energy percentages. On top of this, the northwest is able to achieve this amount of energy production from renewable energy resources; primarily hydropower. Digging into the data a little further we can recommend further insights as to the best time of day to place an optimal load on the future data center to be at both 7am and 5pm, given the trend in energy production throughout the day in the overall northwest. 
+Eliminating the mid-atlantic from the running the only other region that has proven to meet all of the desired metrics of sustainability is that of the ***northwest***. Eventhough the northwest ranks slightly below the mid-atlantic in terms of overall net production, they far exceed most other regions in terms of renewable energy percentages. On top of this, the northwest is able to achieve this amount of energy production from renewable energy resources; primarily hydropower. Digging into the data a little further we can recommend further insights as to the best time of day to place an optimal load on the future data center to be at both 7am and 5pm, given the trend in energy production throughout the day in the overall northwest. 
 
 # What I Learned
 
