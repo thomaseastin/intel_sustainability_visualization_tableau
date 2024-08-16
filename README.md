@@ -5,7 +5,9 @@ In this project, co-designed with Intel's Sustainability Team, I was tasked with
 
 Before getting started, lets familiarize oursleves with some important terms in the data.
 
-Looking for some Dashboards? Check them out on my Tableau Public Profile: [Data Center Sustainability Project 1](https://public.tableau.com/app/profile/thomas.eastin/viz/DataCenterSustainabilityProjectIntel/Dashboard), [Data Center Sustainability Project 2](https://public.tableau.com/app/profile/thomas.eastin/viz/DataCenterSustainabilityProjectIntel2/Dashboard2)
+Looking for some Dashboards? Check them out on my Tableau Public Profile:<br /> 
+[Data Center Sustainability Project Dashboard 1](https://public.tableau.com/app/profile/thomas.eastin/viz/DataCenterSustainabilityProjectIntel/Dashboard)<br />
+[Data Center Sustainability Project Dashboard 2](https://public.tableau.com/app/profile/thomas.eastin/viz/DataCenterSustainabilityProjectIntel2/Dashboard2)
 
 ### Data Terms
 
